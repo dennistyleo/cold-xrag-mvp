@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+"This repository contains the original March 8th MVP/Mockup. For the high-fidelity industrial substrate, please visit the Sovereign V1 production repository."
+
 # COLD_XRAG | Extreme Reliability Axiom Generator (V36 Sovereign)
 
 ## **Current State: FULLY OPERATIONAL (March 17, 2026)**
