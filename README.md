@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-"This repository contains the original March 8th MVP/Mockup. For the high-fidelity industrial substrate, please visit the Sovereign V1 production repository."
+
 
 # COLD_XRAG | Extreme Reliability Axiom Generator (V36 Sovereign)
 
-## **Current State: FULLY OPERATIONAL (March 17, 2026)**
+## **Current State: MVP FOR DEMO ONLY (March 8, 2026) "This repository contains the original March 8th MVP/Mockup. For the high-fidelity industrial substrate, please visit the Sovereign V1 production repository." **
 > **Entry Point:** The high-fidelity production substrate is located in the `/sovereign_v1` directory. All active L1–L5 logic and 3D visual manifolds are hosted there.
 
 ---
