@@ -1,16 +1,17 @@
-# COLD_XRAG Operational Manual: Non-Technical Guide
+# COLD_XRAG Operational SOP: Investor & Auditor Guide
 
-### **Phase 1: Claim Selection (Input)**
-Navigate the sidebar and select the specific claims (Axioms) you wish to verify. 
-- **Indicator:** A "Gold Breathe" animation confirms the system has engaged the data.
+### **Phase 1: Environment Setup**
+1. Initialize local server: `python3 app.py` (Running on Port 5003).
+2. Open `index.html` in a high-performance browser.
 
-### **Phase 2: High-Fidelity Verification (Analysis)**
-Monitor the three primary analytical lenses to ensure system stability:
-1. **The Manifold (GNN):** Ensures logical "connectivity" of the data.
-2. **The Asset (WORLD):** Inspect the 3D material model for structural ripples (Stress Markers).
-3. **The Map (CAUSAL):** Trace the curved paths to see how one risk impacts another.
+### **Phase 2: Substrate Engagement**
+- Click an **Axiom Leaf** in the sidebar to initiate the audit. 
+- The "Gold Breathe" animation confirms that the system has engaged the specific data claim.
 
-### **Phase 3: Final Certification (Output)**
-Click **[GENERATE AUDIT REPORT]**. 
-- **The Result:** You will receive a "Final Entropy Score." Lower entropy equals higher trust.
-- **The Fingerprint:** Every report contains a unique **Audit Hash** for permanent record-keeping.
+### **Phase 3: Visual Verification**
+- **WORLD View:** Inspect the 3D material lattice for ripples (Structural Stress).
+- **CAUSAL View:** Trace the curved splines to see non-linear risk flow.
+
+### **Phase 4: Certification**
+- Click **GENERATE AUDIT REPORT**.
+- Review the **Substrate Executive Summary** for total system entropy.
